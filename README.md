@@ -14,30 +14,30 @@ Welcome to our comprehensive casino gaming platform that provides cutting-edge g
 ## 📸 Platform Screenshots
 
 ### Game88 - Gaming Interface
-![Game88 Gaming Interface](./public/image1.png)
+![Game88 Gaming Interface](./casino-sales-page/public/image1.png)
 *Our flagship gaming platform featuring hundreds of slot games and live casino experiences*
 
 ### CRM88 - Management System
-![CRM88 Management System](./public/image2.png)
+![CRM88 Management System](./casino-sales-page/public/image2.png)
 *Advanced CRM system for managing player relationships and casino operations*
 
 ### Additional Platform Views
-![Platform Features](./public/image3.png)
+![Platform Features](./casino-sales-page/public/image3.png)
 *Comprehensive feature overview of our gaming solutions*
 
-![User Dashboard](./public/image4.png)
+![User Dashboard](./casino-sales-page/public/image4.png)
 *User-friendly dashboard for seamless gaming experience*
 
-![Admin Panel](./public/image5.png)
+![Admin Panel](./casino-sales-page/public/image5.png)
 *Powerful admin panel for casino operators*
 
-![Mobile Interface](./public/image6.png)
+![Mobile Interface](./casino-sales-page/public/image6.png)
 *Fully responsive mobile gaming interface*
 
-![Analytics Dashboard](./public/image7.png)
+![Analytics Dashboard](./casino-sales-page/public/image7.png)
 *Real-time analytics and reporting tools*
 
-![Security Features](./public/image8.png)
+![Security Features](./casino-sales-page/public/image8.png)
 *Advanced security and compliance features*
 
 ## 🎮 Features
